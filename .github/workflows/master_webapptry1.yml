@@ -48,4 +48,3 @@ jobs:
           app-name: 'WEBAPPTRY1'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44BFF925FCEF4DF5B1099AB03894BE26 }}
-          package: '*.jar'
